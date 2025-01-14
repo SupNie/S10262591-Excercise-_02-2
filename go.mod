@@ -1,0 +1,3 @@
+module S10262591_EXECERCISE_02-2
+
+go 1.23.2
